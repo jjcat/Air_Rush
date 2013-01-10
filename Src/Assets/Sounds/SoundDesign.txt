@@ -1,0 +1,34 @@
+BACKGROUND
+==========
+
+- Main Menu:startBGM.wav
+
+- In-Game: ingameloop.wav
+
+- Game Over: startBGM.wav
+
+SFX
+===   
+   
+- Start Game: click2.wav
+  Plays when start game
+  
+- Button Click: click.wav
+  Click buttons in Game Over menu
+  
+- Boost: boost.aif
+  Begin of boost
+  
+- Jump: jump.wav
+  Begin of jump
+  
+- Eat Yellow Gem: yellowGem.wav
+
+- Eat Blue Gem: blueGem.wav
+
+- Eat Red Gem: redGem.wav
+
+- Runing: runing.wav
+  Plays when runing
+
+   
